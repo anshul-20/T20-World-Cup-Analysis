@@ -26,7 +26,7 @@ Power BI for data visualization and dashboard creation.
 
 Dataset from T20 World Cup records, including player stats and match outcomes.
 
-**Getting Started **🚀
+**Getting Started**🚀
 
 Clone the repository to access the Power BI project files.
 
